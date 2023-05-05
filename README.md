@@ -1,5 +1,5 @@
-language = "pt_br"
-- Olá me chamo Allan Bruno de S.Bahr, tenho atualmente 18 anos e estou estudando Python, e estou focando meu aprendizado ao setor de Back-end.
+## language = "pt_br"
+| Olá me chamo Allan Bruno de S.Bahr, tenho atualmente 18 anos e estou estudando Python, e estou focando meu aprendizado ao setor de Back-end.
 Por enquanto o meu foco está em Python, portanto, logo após irei me aprimorar estudando Javascript e Typescript e também me aprofundar em DevOps.
 Meu nível de Python encontra-se em nivel intermédiario, já possuo conhecimentos básicos em outras linguagens, como C#, C++, Java e Web.
 
