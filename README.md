@@ -19,10 +19,10 @@ My Python level is at an intermediate level, I already have basic knowledge in o
 I'm studying ADS at the Catholic University of Pelotas and I'm in my first semester, I'm looking for an internship job to gain experience.
 For contact, you have my social networks:
 
-Instagram: https://www.instagram.com/allanbahr/
-Linkedin: https://www.linkedin.com/in/allanbrunobahr/
-Facebook: https://www.facebook.com/allan.bahr.773/
-E-mail: madebyallanbahr@gmail.com
+Instagram: https://www.instagram.com/allanbahr/<br>
+Linkedin: https://www.linkedin.com/in/allanbrunobahr/<br>
+Facebook: https://www.facebook.com/allan.bahr.773/<br>
+E-mail: madebyallanbahr@gmail.com<br>
 
 <!---
 madebyallanbahr/madebyallanbahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
