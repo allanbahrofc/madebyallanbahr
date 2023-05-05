@@ -6,10 +6,10 @@ Meu nível de Python encontra-se em nivel intermédiario, já possuo conheciment
 Estou cursando ADS na Universidade Católica de Pelotas e estou no meu primeiro semestre, estou a procura de um emprego de estágio para adquirir experiência.
 Para contato, tem minhas redes socias:
 
-Instagram: https://www.instagram.com/allanbahr/
-Linkedin: https://www.linkedin.com/in/allanbrunobahr/
-Facebook: https://www.facebook.com/allan.bahr.773/
-E-mail: madebyallanbahr@gmail.com
+Instagram: https://www.instagram.com/allanbahr/<br>
+Linkedin: https://www.linkedin.com/in/allanbrunobahr/<br>
+Facebook: https://www.facebook.com/allan.bahr.773/<br>
+E-mail: madebyallanbahr@gmail.com<br>
 
 ## language = "en_us"
 Hello, my name is Allan Bruno from S.Bahr, I'm currently 18 years old and I'm studying Python, and I'm focusing my learning on the Back-end sector.
