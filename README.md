@@ -12,7 +12,7 @@ Facebook: https://www.facebook.com/allan.bahr.773/<br>
 E-mail: madebyallanbahr@gmail.com<br>
 
 ## English
-Hello, my name is Allan Bruno de Souza Bahr, I'm currently 18 years old and I'm studying Python, and I'm focusing my learning on the Back-end sector.
+Hello, my name is Allan Bruno de Souza Bahr, I'm currently 19 years old and I'm studying Python, and I'm focusing my learning on the Back-end sector.
 For now my focus is on Python, so after that I will improve myself by studying Javascript and Typescript and also delving into DevOps.
 My Python level is at an intermediate level, I already have basic knowledge in other languages, such as C#, C++, Java and Web.
 
