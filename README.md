@@ -1,30 +1,13 @@
-## Português
-Olá me chamo Allan Bruno de Souza Bahr, tenho atualmente 19 anos e estou estudando Python, e estou focando meu aprendizado ao setor de Back-end.
-Por enquanto o meu foco está em Python, portanto, logo após irei me aprimorar estudando Javascript e Typescript e também me aprofundar em DevOps.
-Meu nível de Python encontra-se em nivel intermédiario, já possuo conhecimentos básicos em outras linguagens, como C#, C++, Java e Web.
-
-Estou cursando ADS na Universidade Católica de Pelotas e estou no meu primeiro semestre, estou a procura de um emprego de estágio para adquirir experiência.
-Para contato, tem minhas redes socias:
-
-Instagram: https://www.instagram.com/allanbahr/<br>
-Linkedin: https://www.linkedin.com/in/allanbrunobahr/<br>
-Facebook: https://www.facebook.com/allan.bahr.773/<br>
-E-mail: madebyallanbahr@gmail.com<br>
-
-## English
-Hello, my name is Allan Bruno de Souza Bahr, I'm currently 19 years old and I'm studying Python, and I'm focusing my learning on the Back-end sector.
-For now my focus is on Python, so after that I will improve myself by studying Javascript and Typescript and also delving into DevOps.
-My Python level is at an intermediate level, I already have basic knowledge in other languages, such as C#, C++, Java and Web.
-
-I'm studying ADS at the Catholic University of Pelotas and I'm in my first semester, I'm looking for an internship job to gain experience.
-For contact, you have my social networks:
-
-Instagram: https://www.instagram.com/allanbahr/<br>
-Linkedin: https://www.linkedin.com/in/allanbrunobahr/<br>
-Facebook: https://www.facebook.com/allan.bahr.773/<br>
-E-mail: madebyallanbahr@gmail.com<br>
-
-<!---
-madebyallanbahr/madebyallanbahr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Olá meu nome é Allan Bruno de Souza Bahr(madebyallanbahr)
+Atualmente sou Back-end Júnior <br>
+Trabalho como Jovem Aprendiz na @melhorenvio<br>
+<br>
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Javascript Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python Logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madebyallanbahr&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=madebyallanbahr&theme=dark)](https://git.io/streak-stats)
+<br>
